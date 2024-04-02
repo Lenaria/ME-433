@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/blink/CMakeFiles/ELF2UF2Build
+/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/blink/CMakeFiles/ELF2UF2Build.rule
+/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/blink/CMakeFiles/ELF2UF2Build-complete.rule
+/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
