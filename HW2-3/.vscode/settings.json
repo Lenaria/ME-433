@@ -2,4 +2,8 @@
     "cmake.environment": {
     "PICO_SDK_PATH":"/Users/prarthana/Pico/pico-sdk"
     },
+    "files.associations": {
+      "adc.h": "c",
+      "stdlib.h": "c"
+    },
   }

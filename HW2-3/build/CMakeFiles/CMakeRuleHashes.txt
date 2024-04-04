@@ -1,10 +1,7 @@
 # Hashes of file build rules.
-e2a37e9e92cf352a2aa725abf5c71323 blink/CMakeFiles/ELF2UF2Build
 76b3ef6cab778a4395706cb5b83b2e98 blink/CMakeFiles/ELF2UF2Build-complete
-15d5764f56e128e1442762a56d5873ed blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build
 a5c5772e71e97c9e187470274dc1e64b blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure
 f6b4d232152de67a61e7ee8313e7e913 blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download
-becba4d98e84a4299299876b64c9a2e8 blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install
 512971697b29429fe7aa0bdbe29b2bd0 blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir
 e54013af397cbd3e8e10a70eec89cb4e blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch
 1c27389c8e450d334231c14715fae5d8 blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update
@@ -23,3 +20,12 @@ fc9ec7b3cee1d23491b3ec03d343dd12 pico-sdk/src/rp2_common/pico_cyw43_driver/pioas
 6df6ed6deb72f03b75373f9f8bc2068a pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir
 7426d6e6a750dde8288c6450d2ab3b4d pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch
 7527a42ed5bd9d85eafa9c4144fff797 pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-update
+42cdd4955c49a79496cfa3e265ea2969 print/CMakeFiles/ELF2UF2Build
+3e7750c5d9fcdba0dc9f2dff5508e86c print/CMakeFiles/ELF2UF2Build-complete
+15d5764f56e128e1442762a56d5873ed print/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build
+64c3d265f023ae35372b1b729db77183 print/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure
+2a5ed2b25dae63f3b4b6bcf0049c6c8f print/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download
+becba4d98e84a4299299876b64c9a2e8 print/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install
+dbeb5aefdd11c292799414a280737086 print/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir
+4fd990953e742433e426e736b63b9ddc print/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch
+e62264515e52c4615e47427bdd6ced94 print/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update
