@@ -8,13 +8,13 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
   "/Users/prarthana/Pico/ME433/ME-433/HW2-3/CMakeLists.txt"
+  "/Users/prarthana/Pico/ME433/ME-433/HW2-3/blink/CMakeLists.txt"
   "CMakeFiles/3.29.0/CMakeASMCompiler.cmake"
   "CMakeFiles/3.29.0/CMakeCCompiler.cmake"
   "CMakeFiles/3.29.0/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.29.0/CMakeSystem.cmake"
-  "mti2c/elf2uf2/tmp/ELF2UF2Build-mkdirs.cmake"
+  "blink/elf2uf2/tmp/ELF2UF2Build-mkdirs.cmake"
   "pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/tmp/PioasmBuild-mkdirs.cmake"
-  "/Users/prarthana/Pico/ME433/ME-433/HW2-3/mti2c/CMakeLists.txt"
   "/Users/prarthana/Pico/ME433/ME-433/HW2-3/pico_sdk_import.cmake"
   "/Users/prarthana/Pico/pico-sdk/CMakeLists.txt"
   "/Users/prarthana/Pico/pico-sdk/cmake/Platform/PICO.cmake"
@@ -244,12 +244,12 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "pico-sdk/src/rp2040/hardware_regs/CMakeFiles/CMakeDirectoryInformation.cmake"
   "pico-sdk/src/rp2040/hardware_structs/CMakeFiles/CMakeDirectoryInformation.cmake"
   "pico-sdk/docs/CMakeFiles/CMakeDirectoryInformation.cmake"
-  "mti2c/elf2uf2/tmp/ELF2UF2Build-mkdirs.cmake"
-  "mti2c/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-source_dirinfo.txt"
-  "mti2c/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update-info.txt"
-  "mti2c/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch-info.txt"
-  "mti2c/elf2uf2/tmp/ELF2UF2Build-cfgcmd.txt"
-  "mti2c/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "blink/elf2uf2/tmp/ELF2UF2Build-mkdirs.cmake"
+  "blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-source_dirinfo.txt"
+  "blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update-info.txt"
+  "blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch-info.txt"
+  "blink/elf2uf2/tmp/ELF2UF2Build-cfgcmd.txt"
+  "blink/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
@@ -259,6 +259,6 @@ set(CMAKE_DEPEND_INFO_FILES
   "pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_padded_checksummed_asm.dir/DependInfo.cmake"
   "pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild.dir/DependInfo.cmake"
   "pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/cyw43_driver_picow_cyw43_bus_pio_spi_pio_h.dir/DependInfo.cmake"
-  "mti2c/CMakeFiles/mti2c.dir/DependInfo.cmake"
-  "mti2c/CMakeFiles/ELF2UF2Build.dir/DependInfo.cmake"
+  "blink/CMakeFiles/blink.dir/DependInfo.cmake"
+  "blink/CMakeFiles/ELF2UF2Build.dir/DependInfo.cmake"
   )

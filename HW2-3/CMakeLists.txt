@@ -13,7 +13,7 @@ set(NICK_PICO_EXAMPLES_PATH ${PROJECT_SOURCE_DIR})
 pico_sdk_init()
 
 # Add multi example
-add_subdirectory(mti2c)
+add_subdirectory(blink)
 
 
 add_compile_options(-Wall
