@@ -1,10 +1,7 @@
 # Hashes of file build rules.
-e2a37e9e92cf352a2aa725abf5c71323 blink/CMakeFiles/ELF2UF2Build
 76b3ef6cab778a4395706cb5b83b2e98 blink/CMakeFiles/ELF2UF2Build-complete
-15d5764f56e128e1442762a56d5873ed blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build
 a5c5772e71e97c9e187470274dc1e64b blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure
 f6b4d232152de67a61e7ee8313e7e913 blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download
-becba4d98e84a4299299876b64c9a2e8 blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install
 512971697b29429fe7aa0bdbe29b2bd0 blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir
 e54013af397cbd3e8e10a70eec89cb4e blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch
 1c27389c8e450d334231c14715fae5d8 blink/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update
@@ -40,9 +37,12 @@ fc9ec7b3cee1d23491b3ec03d343dd12 pico-sdk/src/rp2_common/pico_cyw43_driver/pioas
 dbeb5aefdd11c292799414a280737086 print/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir
 4fd990953e742433e426e736b63b9ddc print/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch
 e62264515e52c4615e47427bdd6ced94 print/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update
+9ac028fa91a975adb531762a4677a41c spi/CMakeFiles/ELF2UF2Build
 bab9fda4e7c5ea1dd5cf8c51aa89ee50 spi/CMakeFiles/ELF2UF2Build-complete
+15d5764f56e128e1442762a56d5873ed spi/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build
 a6baa68f88a70eeb3c70a9d8ecd5c21f spi/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure
 f6547f0dff62456faacac704406574cd spi/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download
+becba4d98e84a4299299876b64c9a2e8 spi/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install
 dd86da5dd750f37803a040e6966cfb1c spi/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir
 939e738688e97a32feb77c369596a115 spi/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch
 13b9159156f0bedf06f75f835f3aa8cc spi/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update

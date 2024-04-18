@@ -182,17 +182,17 @@ cyw43_driver_picow_cyw43_bus_pio_spi_pio_h/fast:
 .PHONY : cyw43_driver_picow_cyw43_bus_pio_spi_pio_h/fast
 
 #=============================================================================
-# Target rules for targets named blink
+# Target rules for targets named spi
 
 # Build rule for target.
-blink: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 blink
-.PHONY : blink
+spi: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 spi
+.PHONY : spi
 
 # fast build rule for target.
-blink/fast:
-	$(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/build
-.PHONY : blink/fast
+spi/fast:
+	$(MAKE) $(MAKESILENT) -f spi/CMakeFiles/spi.dir/build.make spi/CMakeFiles/spi.dir/build
+.PHONY : spi/fast
 
 #=============================================================================
 # Target rules for targets named ELF2UF2Build
@@ -204,7 +204,7 @@ ELF2UF2Build: cmake_check_build_system
 
 # fast build rule for target.
 ELF2UF2Build/fast:
-	$(MAKE) $(MAKESILENT) -f blink/CMakeFiles/ELF2UF2Build.dir/build.make blink/CMakeFiles/ELF2UF2Build.dir/build
+	$(MAKE) $(MAKESILENT) -f spi/CMakeFiles/ELF2UF2Build.dir/build.make spi/CMakeFiles/ELF2UF2Build.dir/build
 .PHONY : ELF2UF2Build/fast
 
 # Help Target
@@ -220,8 +220,8 @@ help:
 	@echo "... bs2_default_bin"
 	@echo "... bs2_default_padded_checksummed_asm"
 	@echo "... cyw43_driver_picow_cyw43_bus_pio_spi_pio_h"
-	@echo "... blink"
 	@echo "... bs2_default"
+	@echo "... spi"
 .PHONY : help
 
 

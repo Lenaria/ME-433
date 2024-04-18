@@ -642,7 +642,7 @@
 			"path" : "/opt/homebrew/Cellar/cmake/3.29.0/share/cmake/Modules/FindPackageMessage.cmake"
 		},
 		{
-			"path" : "blink/CMakeLists.txt"
+			"path" : "spi/CMakeLists.txt"
 		},
 		{
 			"isExternal" : true,
@@ -660,7 +660,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/blink/elf2uf2/tmp/ELF2UF2Build-mkdirs.cmake"
+			"path" : "build/spi/elf2uf2/tmp/ELF2UF2Build-mkdirs.cmake"
 		},
 		{
 			"isCMake" : true,

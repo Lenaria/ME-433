@@ -40,7 +40,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/pico-sdk/cmake_install.cmake")
-  include("/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/blink/cmake_install.cmake")
+  include("/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/spi/cmake_install.cmake")
 
 endif()
 

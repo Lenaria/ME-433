@@ -165,7 +165,7 @@
 /Users/prarthana/Pico/ME433/ME-433/HW2-3/build/pico-sdk/src/rp2040/hardware_structs/CMakeFiles/rebuild_cache.dir
 /Users/prarthana/Pico/ME433/ME-433/HW2-3/build/pico-sdk/docs/CMakeFiles/edit_cache.dir
 /Users/prarthana/Pico/ME433/ME-433/HW2-3/build/pico-sdk/docs/CMakeFiles/rebuild_cache.dir
-/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/blink/CMakeFiles/blink.dir
-/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/blink/CMakeFiles/ELF2UF2Build.dir
-/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/blink/CMakeFiles/edit_cache.dir
-/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/blink/CMakeFiles/rebuild_cache.dir
+/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/spi/CMakeFiles/spi.dir
+/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/spi/CMakeFiles/ELF2UF2Build.dir
+/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/spi/CMakeFiles/edit_cache.dir
+/Users/prarthana/Pico/ME433/ME-433/HW2-3/build/spi/CMakeFiles/rebuild_cache.dir
