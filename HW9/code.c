@@ -34,6 +34,7 @@ void on_uart_rx() {
         if(ch == '\n' || ch == '\r')
         {
             i = 0;
+            memset(message, 0, sizeof(message));
             printf("Reflected by Zero: %s\n\n", message);
         }
         
