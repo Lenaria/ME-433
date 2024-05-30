@@ -54,7 +54,7 @@ plt.plot(index, reds, 'r-', label='Reds')
 plt.plot(index, greens, 'g-', label='Greens')
 plt.plot(index, blues, 'b-', label='Blues')
 plt.plot(index, sum, 'k-', label='Sum')
-plt.plot(index, line, 'm-', label='Above/Below Average')
+plt.plot(index, line, 'm-', label='White Line')
 plt.axvline(x=center_of_mass, color='c', label='Center of Mass')  # Adding a vertical line for the center of mass
 plt.legend()  # Show legend to identify lines
 plt.title('Pixel Intensity and Center of Mass')
